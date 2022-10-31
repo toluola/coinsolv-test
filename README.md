@@ -10,5 +10,5 @@
 * `yarn start` to start a dev server
 
 ### App Link
-https://635fb0856d44151f625ae41f--clinquant-pegasus-9d2adc.netlify.app/
+https://635fb2f1a158b8151d80a4c5--clinquant-pegasus-9d2adc.netlify.app/
 
