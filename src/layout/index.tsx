@@ -1,4 +1,3 @@
-import Footer from "./footer";
 import Header from "./header";
 
 function Layout({ children }: { children: any }) {
@@ -9,8 +8,6 @@ function Layout({ children }: { children: any }) {
       <main className="flex-fill">
         <div className="container">{children} </div>
       </main>
-
-      <Footer />
     </div>
   );
 }

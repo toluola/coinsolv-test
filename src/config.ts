@@ -1,4 +1,4 @@
-export const title = "Vite Boilerplate";
+export const title = "Country Search";
 const ghUrl = "https://github.com/nexys-system/boilerplate_vite";
 
 export const version: string = import.meta.env.VITE_VERSION || "unset_version";
